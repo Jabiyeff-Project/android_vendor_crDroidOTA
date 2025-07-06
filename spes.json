@@ -1,28 +1,28 @@
 {
   "response": [
     {
-      "maintainer": "Jingexz01 (Jing)",
+      "maintainer": "Jabiyeff",
       "oem": "Redmi",
       "device": "Redmi Note 11",
-      "filename": "crDroidAndroid-15.0-20250629-spes-v11.6.zip",
-      "download": "https://sourceforge.net/projects/crdroid/files/spes/11.x/crDroidAndroid-15.0-20250629-spes-v11.6.zip/download",
-      "timestamp": 1751202719,
-      "md5": "9425712ed226de155b6ad53cc5f78753",
-      "sha256": "f7ff9cb4a658fe78549123da367cd3c902aeb4fc43f8851126b42cc7ed9cdd33",
-      "size": 1534986204,
+      "filename": "crDroidAndroid-15.0-20250705-spes-v11.6.zip",
+      "download": "https://sourceforge.net/projects/jabiyeff-build/files/crDroid-Spes/crDroidAndroid-15.0-20250705-spes-v11.6.zip/download",
+      "timestamp": 1751714749,
+      "md5": "6305357e27dd428f92eb77f21d87732f",
+      "sha256": "2b2d96e66ee0ab83c3cbb360cdc50f768eec3d96c49faabc714a3b466aa637e7",
+      "size": 1776355872,
       "version": "11.6",
       "buildtype": "Monthly",
-      "forum": "https://xdaforums.com/t/crdroid-11-6-for-xiaomi-redmi-note-11.4746789/",
+      "forum": "",
       "gapps": "https://github.com/MindTheGapps/15.0.0-arm64/releases",
       "firmware": "https://xmfirmwareupdater.com/firmware/spes/",
       "modem": "",
       "bootloader": "",
-      "recovery": "https://sourceforge.net/projects/crdroid/files/spes/11.x/recovery",
+      "recovery": "",
       "paypal": "",
-      "telegram": "https://t.me/+YlfkpeqLThU4NjQ1",
-      "dt": "https://github.com/crdroidandroid/android_device_xiaomi_spes",
+      "telegram": "https://t.me/crDroidSpes",
+      "dt": "https://github.com/Jabiyeff/android_device_xiaomi_spes",
       "common-dt": "",
-      "kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_spes"
+      "kernel": "https://github.com/Jabiyeff/kernel_xiaomi_sm6225"
     }
   ]
 }
