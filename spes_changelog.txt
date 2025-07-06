@@ -4,7 +4,7 @@ Device maintainer: Jabiyeff
 Highlights & Device Specific Changes:
 
 
-07-05-2025:
+06-07-2025:
 
 - Updated to June security patch (11.6)
 - Fixed WiFi WPA3 SAE connection issue
